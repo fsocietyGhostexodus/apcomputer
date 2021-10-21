@@ -1,0 +1,16 @@
+/home/jbpi8607/c#/Variables/bin/Debug/net5.0/Variables
+/home/jbpi8607/c#/Variables/bin/Debug/net5.0/Variables.deps.json
+/home/jbpi8607/c#/Variables/bin/Debug/net5.0/Variables.runtimeconfig.json
+/home/jbpi8607/c#/Variables/bin/Debug/net5.0/Variables.runtimeconfig.dev.json
+/home/jbpi8607/c#/Variables/bin/Debug/net5.0/Variables.dll
+/home/jbpi8607/c#/Variables/bin/Debug/net5.0/ref/Variables.dll
+/home/jbpi8607/c#/Variables/bin/Debug/net5.0/Variables.pdb
+/home/jbpi8607/c#/Variables/obj/Debug/net5.0/Variables.csproj.AssemblyReference.cache
+/home/jbpi8607/c#/Variables/obj/Debug/net5.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/jbpi8607/c#/Variables/obj/Debug/net5.0/Variables.AssemblyInfoInputs.cache
+/home/jbpi8607/c#/Variables/obj/Debug/net5.0/Variables.AssemblyInfo.cs
+/home/jbpi8607/c#/Variables/obj/Debug/net5.0/Variables.csproj.CoreCompileInputs.cache
+/home/jbpi8607/c#/Variables/obj/Debug/net5.0/Variables.dll
+/home/jbpi8607/c#/Variables/obj/Debug/net5.0/ref/Variables.dll
+/home/jbpi8607/c#/Variables/obj/Debug/net5.0/Variables.pdb
+/home/jbpi8607/c#/Variables/obj/Debug/net5.0/Variables.genruntimeconfig.cache

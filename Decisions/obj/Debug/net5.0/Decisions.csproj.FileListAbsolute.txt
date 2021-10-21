@@ -1,0 +1,16 @@
+/home/jbpi8607/c#/Decisions/bin/Debug/net5.0/Decisions
+/home/jbpi8607/c#/Decisions/bin/Debug/net5.0/Decisions.deps.json
+/home/jbpi8607/c#/Decisions/bin/Debug/net5.0/Decisions.runtimeconfig.json
+/home/jbpi8607/c#/Decisions/bin/Debug/net5.0/Decisions.runtimeconfig.dev.json
+/home/jbpi8607/c#/Decisions/bin/Debug/net5.0/Decisions.dll
+/home/jbpi8607/c#/Decisions/bin/Debug/net5.0/ref/Decisions.dll
+/home/jbpi8607/c#/Decisions/bin/Debug/net5.0/Decisions.pdb
+/home/jbpi8607/c#/Decisions/obj/Debug/net5.0/Decisions.csproj.AssemblyReference.cache
+/home/jbpi8607/c#/Decisions/obj/Debug/net5.0/Decisions.GeneratedMSBuildEditorConfig.editorconfig
+/home/jbpi8607/c#/Decisions/obj/Debug/net5.0/Decisions.AssemblyInfoInputs.cache
+/home/jbpi8607/c#/Decisions/obj/Debug/net5.0/Decisions.AssemblyInfo.cs
+/home/jbpi8607/c#/Decisions/obj/Debug/net5.0/Decisions.csproj.CoreCompileInputs.cache
+/home/jbpi8607/c#/Decisions/obj/Debug/net5.0/Decisions.dll
+/home/jbpi8607/c#/Decisions/obj/Debug/net5.0/ref/Decisions.dll
+/home/jbpi8607/c#/Decisions/obj/Debug/net5.0/Decisions.pdb
+/home/jbpi8607/c#/Decisions/obj/Debug/net5.0/Decisions.genruntimeconfig.cache
